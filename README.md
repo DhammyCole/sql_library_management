@@ -481,7 +481,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/dhammycole/)
-- **Twitter**: [Connect with me on X](https://x.com/Dhammy_Cole)
+- **Twitter**: [Connect with me on X and let's grow together](https://x.com/Dhammy_Cole)
 - **Gmail**: johndammy2022@gmail.com
 
 Thank you for your interest in this project!
